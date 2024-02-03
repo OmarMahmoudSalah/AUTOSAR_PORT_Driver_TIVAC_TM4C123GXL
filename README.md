@@ -1,5 +1,5 @@
 ## AUTOSAR Full PORT Driver for TM4C123GXL
-I am proud to share that I completed implementation of **Full AUTOSAR Port** Driver for Target Tiva C TM4C123 Micro-Controller based on ARM Cortex M4.
+**Full AUTOSAR Port** Driver for Target Tiva C TM4C123 Micro-Controller based on ARM Cortex M4.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElkk5JK7JsgDjM0vjGfIimLwjb8G91e84hA&usqp=CAU)
 
